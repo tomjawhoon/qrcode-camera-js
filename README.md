@@ -2,3 +2,4 @@
 Vuejs scan qrcode สอนการเขียน Javascript กับการ scan barcode แบบง่ายๆกันครับ
 
 Credit : https://github.com/schmich/instascan
+# QRCODE_TEST
